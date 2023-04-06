@@ -9,5 +9,6 @@ public class AppBaisicGaming {
         var game=new SuperConstra();
         var gameRunner= new GameRunner(game);
         gameRunner.run();
+        System.out.println("Congrates your code pushed to git");
     }
 }
